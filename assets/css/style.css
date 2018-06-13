@@ -137,8 +137,8 @@ footer {
     padding: 10px;
 
 }
-#linkedin {
-    background-image: url("../images/linkedin.png");
+#item1 {
+    background-image: url("../images/hangman.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
     bottom:2px;
@@ -146,10 +146,10 @@ footer {
 
    
 }
-#github {
-    background-image: url("../images/github.png");
+#item2 {
+    background-image: url("../images/crystal.png");
     background-size: 100%;
-    background-repeat: no-repeat; 
+    background-size: cover;
     bottom:2px;
     left:10%; 
 
